@@ -1,0 +1,25 @@
+{
+  "name": "Blob.js",
+  "main": "Blob.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eligrey/Blob.js",
+  "authors": [
+    "Eli Grey"
+  ],
+  "description": "An HTML5 Blob implementation.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "HTML5",
+    "blob",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
